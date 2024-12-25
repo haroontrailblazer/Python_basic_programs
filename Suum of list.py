@@ -6,7 +6,6 @@ sum_of_numbers = 0
 
 # Iterate through the list and accumulate the sum
 for i in numbers:
-    sum_of_numbers += i
-
+    sum_of_numbers += i
 # Print the sum
 print("Sum of elements in the list:", sum_of_numbers)

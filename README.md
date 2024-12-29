@@ -35,7 +35,7 @@ In the ever-evolving landscape of technology, continuous learning and skill deve
 ## 📄 View My Certificate
 Click the link below to view and download my certificate:
 1.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/Python_Essentials_1_Badge20241010-8-6ayheo.pdf)
-2.[View Certificate]()
+2.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/python%20boot%20camp.pdf)
 
 ## 🌐 Connect with Me
 I am always eager to connect with fellow enthusiasts, professionals, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haroon-k-m-861b8a255/) or explore my GitHub profile for more exciting projects and contributions.

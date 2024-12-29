@@ -23,7 +23,7 @@ cd basic-python-programs<br/>
 ## 🏆 Certificate Highlights
 - **Recipient**: Muhammad haroon rasheed K.M
 - **Skill**: Mastery in Python Essentials
-- **Awarded By**: CISCO Networking Academy
+- **Awarded By**: CISCO Networking Academy & UDEMY
 - **Date of Issuance**: OCT,10,2024
 
 ## 🎓 About the Certificate
@@ -34,7 +34,8 @@ In the ever-evolving landscape of technology, continuous learning and skill deve
 
 ## 📄 View My Certificate
 Click the link below to view and download my certificate:
-[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/Python_Essentials_1_Badge20241010-8-6ayheo.pdf)
+1.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/Python_Essentials_1_Badge20241010-8-6ayheo.pdf)
+2.[View Certificate]()
 
 ## 🌐 Connect with Me
 I am always eager to connect with fellow enthusiasts, professionals, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haroon-k-m-861b8a255/) or explore my GitHub profile for more exciting projects and contributions.

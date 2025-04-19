@@ -14,7 +14,7 @@ This repository contains a collection of fundamental Python programs designed to
 Ensure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/).
 ### Cloning the Repository
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/basic-python-programs.git
+git clone https://github.com/haroontrailblazer/basic-python-programs.git
 cd basic-python-programs<br/>
 
 

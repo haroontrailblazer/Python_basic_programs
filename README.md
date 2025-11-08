@@ -33,6 +33,8 @@ This prestigious certificate acknowledges my proficiency and expertise in Python
 In the ever-evolving landscape of technology, continuous learning and skill development are paramount. This certificate not only validates my capabilities but also highlights my commitment to staying ahead of the curve. By earning this certification, I have demonstrated a deep understanding and practical knowledge of Python basics, positioning myself as a valuable contributor in the field.
 
 ## 📄 View My Certificate
+<img width="84" height="84" alt="python-essentials-1 1 (2)" src="https://github.com/user-attachments/assets/9f19625a-3961-4db8-884f-62746529d6e0" />
+
 Click the link below to view and download my certificate:
 1.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/Python_Essentials_1_Badge20241010-8-6ayheo.pdf)
 2.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/python%20boot%20camp.pdf)

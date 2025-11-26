@@ -1,43 +1,22 @@
 # Basic Python Programs
 
-Welcome to the **Basic Python Programs** repository! 🎉
+Welcome to the **Python Programs** repository! 
+# Skill Certificate 
+
+<div align="center">
+
+  <h3><b>Cisco Certified Python Programmer</b></h3><br>
+  <img width="250" height="250" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" />
+  <img width="250" height="250" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" /><br>
+  
+  [![Credly Badge](https://img.shields.io/badge/View%20on-Credly-orange?style=for-the-badge&logo=credly)](https://www.credly.com/badges/4a77f00c-5326-4836-a5ba-c9a4bfbd9e34/public_url)
+  
+ <br> <p><b>Skills:</b> Algorithmic Thinking,  Analytical Thinking,  Basic Python Programming,  Best Practices in Programming,  Computer Programming,  Design,  Develop and Debug Scripts,  Entry-level,  Procedural Programming,  Iterators,  Python,  Classes,  Exceptions,  Generators,  Inheritance,  Methods,  Modules,  Object Oriented Programming,  Objects,  Packages PIP,  Polymorphism,  Properties
+
+</p>
+
+</div>
 
 ## Overview
 This repository contains a collection of fundamental Python programs designed to help beginners and enthusiasts strengthen their coding skills. Each program focuses on a different concept, providing a solid foundation in Python programming.
-
-## Contents
-- `programs/`: Directory containing all Python programs.
-- `README.md`: Overview and instructions.
-
-## Getting Started
-### Prerequisites
-Ensure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/).
-### Cloning the Repository
-Clone this repository to your local machine:
-git clone https://github.com/haroontrailblazer/basic-python-programs.git
-cd basic-python-programs<br/>
-
-
-# 🌟 Skill Certificate 
-
-## 🏆 Certificate Highlights
-- **Recipient**: Muhammad haroon rasheed K.M
-- **Skill**: Mastery in Python Essentials
-- **Awarded By**: CISCO Networking Academy & UDEMY
-- **Date of Issuance**: OCT,10,2024
-
-## 🎓 About the Certificate
-This prestigious certificate acknowledges my proficiency and expertise in Python basics. It stands as a testament to my dedication, hard work, and passion for mastering this skill. Awarded by CISCO Networking Academy, this certificate underscores my ability to "analyze complex data sets, develop innovative algorithms, and drive impactful solutions".
-
-## 🔍 Why This Matters
-In the ever-evolving landscape of technology, continuous learning and skill development are paramount. This certificate not only validates my capabilities but also highlights my commitment to staying ahead of the curve. By earning this certification, I have demonstrated a deep understanding and practical knowledge of Python basics, positioning myself as a valuable contributor in the field.
-
-## 📄 View My Certificate
-
-Click the link below to view and download my certificate:
-1.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/Python_Essentials_1_Badge20241010-8-6ayheo.pdf)
-2.[View Certificate](https://github.com/haroontrailblazer/haroontrailblazer/blob/main/python%20boot%20camp.pdf)
-
-## 🌐 Connect with Me
-I am always eager to connect with fellow enthusiasts, professionals, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/haroon-k-m-861b8a255/) or explore my GitHub profile for more exciting projects and contributions.
 

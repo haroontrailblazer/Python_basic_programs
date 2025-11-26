@@ -6,7 +6,7 @@ Welcome to the **Python Programs** repository!
 <div align="center">
 
   <h3><b>Cisco Certified Python Programmer</b></h3><br>
-  <img width="250" height="250" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" />
+  <img width="121" height="121" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/d852a457-8d34-4d8c-b18d-51c1bee079c0" />
   <img width="250" height="250" alt="python-essentials-2" src="https://github.com/user-attachments/assets/1c840cef-b00d-4d8b-9efe-fcef56d8a07d" /><br>
   
   [![Credly Badge](https://img.shields.io/badge/View%20on-Credly-orange?style=for-the-badge&logo=credly)](https://www.credly.com/badges/4a77f00c-5326-4836-a5ba-c9a4bfbd9e34/public_url)
